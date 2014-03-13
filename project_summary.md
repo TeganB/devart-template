@@ -1,12 +1,13 @@
 # Project Title
-Insert the name of your project
+Dissonance at Six
 
 ## Authors
-- Insert main author name, surname, github account
+- Tegan Bristow, github.com/TeganB
 - Insert other author(s) name, surname, github account (one per list element)
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+This is a interactive work that is developed in Processing, it uses the Kinect Sensor through SimpleOpenNI.
+The piece's focus engagement of more than one person - six to be precise... to upate.
 
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
