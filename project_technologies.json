@@ -1,16 +1,22 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "google plus"
+            "github"
+             "flickr"
         ],
         "platforms": [
-            "insert platforms"
+            "ios"
+            "windows"
         ],
         "toolkits": [
             "kinect"
         ]
     },
     "themes": [
-        "insert themes"
+        "commune"
+         "recursion"
+         "graphic"
+         "interaction"
     ]
 }
