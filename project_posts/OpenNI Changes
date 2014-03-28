@@ -1,0 +1,6 @@
+The middleware link Simple OpenNI changed. The developer making the basic installation much easier.
+This also means that the functions kinect.enableDepth() has changed not needing that many arguments any more.
+It is a small and easy change.
+
+It is also a great library - thanks.
+You can link it from here:
