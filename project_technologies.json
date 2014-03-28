@@ -6,7 +6,7 @@
         ],
         "platforms": [
             "ios"
-            "windows"
+             "windows"
         ],
         "toolkits": [
             "kinect"
