@@ -6,7 +6,7 @@
 - Assisted by Fabrice Iyolo of the Wits University Google Dev Group.
 
 ## Description
-Dissonance at Six is an experiment in interactive recursive graphics, with a focus on the number six.  I designed the piece to get participants actively together. I believe that coherence or clarity in the world comes from people sharing and cooperating. The work however also questions the limit of this cooperation and where we lose sight ourselves in this cooperation.
+Dissonance at Six is an experiment in interactive recursive graphics, with a focus on the number six.  I designed the piece to get participants actively together. I believe that coherence or clarity in the world comes from people sharing and cooperating. The work however also questions the limit of this cooperation and where we loose sight ourselves in this cooperation.
 
 Dissonance at Six encourages participants to develop the image together. Every time a new participant joins the scene a recursive tree pattern literally grows. The piece continues becoming more extravagant - more participants brings not only new tree's but greater recursion and exuberance to the piece. Till six participants have joined, at this point all the “leaves” fly off the trees and the scene becomes cold, turning the focus away from the screen and towards the other participants that have taken the piece to that point.
 
