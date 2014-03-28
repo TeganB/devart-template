@@ -70,6 +70,6 @@ No other external's were used.
 
 ## Images & Videos
 
-![DissonaceAtSix](http://teganbristow.co.za/wp-content/uploads/2013/05/MM_5.jpg "Image for Dissonance at Six")
+![DissonaceAtSix](http://simple-openni.googlecode.com/svn/site/screenshots/User3dOri.jpg "Simple OpenNi Examples")
 
 
