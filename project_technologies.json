@@ -1,9 +1,8 @@
 {
     "technologies": {
         "apis": [
-            "google plus"
             "github"
-             "flickr"
+            
         ],
         "platforms": [
             "ios"
