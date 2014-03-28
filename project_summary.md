@@ -2,7 +2,7 @@
 
 
 ## Authors
-- Tegan Bristow, github.com/TeganB
+- Tegan Bristow, github.com/TeganB - [Tegan Bristow Website](http://teganbristow.co.za/ "Tegan Bristow Website")
 - Assisted by Fabrice Iyolo of the Wits University Google Dev Group.
 
 ## Description
