@@ -3,7 +3,7 @@
 
 ## Authors
 - Tegan Bristow, github.com/TeganB
-- Assisted by Fabrice Iyolo to optimse.
+- Assisted by Fabrice Iyolo of the Wits University Google Dev Group.
 
 ## Description
 Dissonance at Six is an experiment in interactive recursive graphics, with a focus on the number six.  I designed the piece to get participants actively together. I believe that coherence or clarity in the world comes from people sharing and cooperating. The work however also questions the limit of this cooperation and where we lose sight ourselves in this cooperation.
@@ -22,8 +22,44 @@ No online protoype
 ## Example Code
 NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
 ```
-function test() {
-  console.log("Printing a test");
+// Leaves that are attached to the branches
+void leaves(float h, float leafAngle, float tri3) { 
+  h *= 0.66;
+  if (h > 3) {
+    float base = 10;
+    float baseL = constrain(tri3, 0, 1000);
+    pushMatrix();
+    rotate(treeTheta + leafAngle);
+    translate(0, (-h)); 
+    leaves(h, leafAngle, tri3); 
+    popMatrix();  
+    
+    // restricting the movement fo the leaves when they fall
+    if(leavesFall && fallY<height){
+    //println(leavesFall);
+    fallY = fallY + 0.02;
+    }
+    
+    if(!leavesFall && fallY > 0){
+    fallY = fallY - 0.02;
+    }    
+    
+    pushMatrix();
+    rotate(-treeTheta + leafAngle);
+    translate(0, (-h));
+    leaves(h, leafAngle, tri3);
+    
+    //yellow leaves
+    noStroke();
+    fill(255,255, 0, 50);
+    triangle(-5-fallY, 0-fallY, 5-fallY, 0-fallY, 0-fallY, -baseL-fallY);
+    //treeline
+    strokeWeight(2);
+    stroke(12,192,245,100);
+    line(-base+fallY, fallY, base+fallY, base+fallY);
+    popMatrix();
+  }
+  
 }
 ```
 ## Links to External Libraries
