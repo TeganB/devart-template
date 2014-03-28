@@ -1,4 +1,6 @@
 //OpenNI for Kinect MiddleWare link
+// This has changed from an older version to a new easier version - changing some of the functions
+
 import SimpleOpenNI.*;
 SimpleOpenNI kinect;
 
