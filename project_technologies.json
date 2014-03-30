@@ -1,17 +1,20 @@
 {
     "technologies": {
         "apis": [
-            "github"
+            "Git Hub"
         ],
         "platforms": [
-            "ios"
+            "iOS"
         ],
         "toolkits": [
-            "kinect"
+            "kinect",
+            "Processing"
         ]
     },
     "themes": [
-        "commune"
-         "recursion"
+        "Commune",
+        "Recursion",
+        "Interactive",
+        "Maths"
     ]
 }
